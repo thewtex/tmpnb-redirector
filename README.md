@@ -13,4 +13,4 @@ Add hosts to be considered for redirection:
 
 Remove hosts:
 
-     ./remove_hosts.sh http://myfirsthost.org:8000 https://mysecondhost.org
+    ./remove_hosts.sh http://myfirsthost.org:8000 https://mysecondhost.org
